@@ -1,0 +1,39 @@
+.imagearea {
+  font-size: 20px;
+  font-family: 'Comic Sans MS';
+    text-align:  center;    /* 文字中央寄せ */
+      padding:  100px;        /* 余白指定 */
+      border: solid 2px ;
+background-image: url("../image/任意の画像.jpg");
+}
+
+.imagearea2{
+  font-size: 20px;
+  font-family: 'Comic Sans MS';
+    text-align:  center;    /* 文字中央寄せ */
+      padding:  90px;        /* 余白指定 */
+      border: solid 2px ;
+background-image: url("../image/任意の画像.jpg");
+}
+
+.list{
+  font-size: 20px;
+  font-family: 'Comic Sans MS';
+  text-align:  center;    /* 文字中央寄せ */
+  border: solid 3px;
+}
+
+.text-area{
+  font-size: 20px;
+  color:  #ffffff;	;
+  font-family: 'Comic Sans MS';
+  text-align:  center;    /* 文字中央寄せ */
+  border: solid 3px #000 ;
+  }
+
+  .caution{
+    color:  #ffffff;
+    font-size: 30px;
+
+  }
+
